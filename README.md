@@ -2,13 +2,11 @@
 Discord bot for keyauth.win
 
 ```
-     Note (Planned Update - 19.09.2025):
-      I am currently planning to update and improve this project.
-
-          Additionally, I would like to address a concern regarding code similarity with the following repository:
-           https://github.com/KeyAuth-Archive/Noxius-KeyAuth-Bot
-
-       While I acknowledge that modifications have been made, I strongly believe that a significant portion of that bot's codebase is derived from my original work. This includes structural similarities, command          logic, variable naming and so on.
+Note (Planned Update - 19.09.2025):
+I am currently planning to update and improve this project.
+Additionally, I would like to address a concern regarding code similarity with the following repository:
+https://github.com/KeyAuth-Archive/Noxius-KeyAuth-Bot
+While I acknowledge that modifications have been made, I strongly believe that a significant portion of that bot's codebase is derived from my original work. This includes structural similarities, command   logic, variable naming and so on.
      
 
 ```
